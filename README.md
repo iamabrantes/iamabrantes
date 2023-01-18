@@ -3,12 +3,9 @@
 - 👩‍💻 -  I'm [Jonathan Abranets](https://www.linkedin.com/in/jonathan-abrantes-07614a48/);
 - 🔭 I’m currently working on 4Linux
 - 🌱 I’m currently learning DevOps
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm a platinum sup on League of Legends, main Janna (Account "ITZ Tagane")
   
-  ### Você também consegue me encontrar nas redes: 
+  ### You can contact me on: 
  
 <div> 
   
