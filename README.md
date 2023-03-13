@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - 👩‍💻 -  I'm [Jonathan Abrantes](https://www.linkedin.com/in/jonathan-abrantes-07614a48/);
-- 📄 -  [My CV](https://jonathanabrantes.github.io/resume/);
+- 📄 -  [My CV](https://iamabrantes.github.io/resume);
 - 🔭 -  I’m currently working on [4Linux](https://4linux.com.br/);
 - 🌱 -  I’m currently learning DevOps
 - ⚡  -  Fun fact: I'm a platinum sup on League of Legends, main Janna (Account "ITZ Tagane")
