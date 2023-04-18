@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 👩‍💻 -  I'm [Jonathan Abrantes](https://www.linkedin.com/in/jonathan-abrantes-07614a48/);
+- 👩‍💻 -  I'm [Jonathan Abrantes](https://www.linkedin.com/in/iamabrantes/);
 - 📄 -  [My CV](https://iamabrantes.github.io/resume);
 - 🔭 -  I’m currently working on [4Linux](https://4linux.com.br/);
 - 🌱 -  I’m currently learning DevOps
