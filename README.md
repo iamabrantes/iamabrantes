@@ -2,8 +2,8 @@
 
 - 👩‍💻 -  I'm [Jonathan Abrantes](https://www.linkedin.com/in/iamabrantes/);
 - 📄 -  [My CV](https://iamabrantes.github.io/resume);
-- 🔭 -  I’m currently working on [4Linux](https://4linux.com.br/);
-- 🌱 -  I’m currently learning DevOps
+- 🔭 -  I’m currently working on [Agap2IT](https://agap2it.pt/);
+- 🌱 -  I’m currently working and learning DevOps
 - ⚡  -  Fun fact: I'm a platinum sup on League of Legends, main Janna (Account "ITZ Tagane")
   
   ### You can contact me on: 
